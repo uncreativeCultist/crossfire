@@ -11,7 +11,7 @@ csgo crossplay between xbox 360, ps3 and pc (poc)
 1. get 731 and 740 [(manifest ids below, click!)](#manifest-ids) [(how to download)](#how-to-download-from-steam-small-guide)
 2. extract/download both depots into the same directory
 3. drop crossfire.dll and crossfire.vdf into `csgo/addons`
-4. start the server with your args **(but don't forget -xlsp and -xlsp_insecure if you want working changelevel, im sorry i couldnt figure out what causes this one,,)**
+4. start the server with your args **(but don't forget `+sv_pure 0` and `-xlsp and -xlsp_insecure` if you want working changelevel, im sorry i couldnt figure out what causes this one,,)**
 
 
 
