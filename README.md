@@ -98,4 +98,4 @@ the (probably) easiest way to download things from steam is by using a tool call
 - 733: `./DepotDownloader -app 730 -depot 733 -manifest 4941625320971306498`
 - 740: `./DepotDownloader -app 740 -depot 740 -manifest 4234207694164018948`
 
-<sup><sub>🐈</sub></sup>
+<sup><sub>🐈</sub></sup> 
